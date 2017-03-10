@@ -1,0 +1,51 @@
+	.main,.container{
+			width: 940px;
+			margin: 0 auto;
+			white-space:normal;
+		}
+
+		.img-nav{
+			width: 20px;
+			height: 20px;
+			display: inline;
+			float: left;
+		}
+
+		.btn{
+			width: 92px;
+			height: 30px;
+			background-color: #98bf49;
+			text-align: center;	
+			margin-top: 20px;
+		}
+
+		.btn-1{
+			margin-left: 45px;
+			margin-right: 16px;
+		}
+
+		.container{
+			position: relative;
+			margin-top: 30px;
+		}
+
+		.div-img{
+			float: left;
+			margin-right: 40px;
+			text-align: center;
+		}
+
+		.container .desc{
+			margin-top: 14px;
+			font-size: 16px;
+		}
+
+		img{
+			width: 180px;
+			height: 200px;
+		}
+
+		.checkbox{
+			width:100px;
+			height:100px;
+		}
